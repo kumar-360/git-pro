@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: linear-gradient(
+    rgb(156, 117, 117),
+    rgb(111, 155, 122),
+    rgb(103, 84, 153)
+  );
+  color: orange;
+}
