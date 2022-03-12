@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
   margin: 0;
+  font-family: sans-serif;
 }
 
 h1 {
@@ -14,4 +15,6 @@ h1 {
     rgb(103, 84, 153)
   );
   color: orange;
+  font-weight: bold;
+  font-size: 100px;
 }
